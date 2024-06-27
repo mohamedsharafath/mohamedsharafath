@@ -5,7 +5,7 @@
   <a href="https://auth.geeksforgeeks.org/user/sharafath0sms/practice"><img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Youtube Badge"/></a>
   <a href="https://leetcode.com/u/sharafath0sms/"><img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Twitter Badge"/></a>
 </div>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=mohamedsharafath&style=flat-square&color=blue" alt="" align="center" width="150" height="50"/></div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=mohamedsharafath&style=flat-square&color=blue" alt="" align="center" width="150" height="35"/></div>
 <br>
 
 # 🛠️ Technologies & Tools
