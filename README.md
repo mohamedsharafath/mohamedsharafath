@@ -28,18 +28,52 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" **alt="Scikit-learn" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" **alt="Tensorflow" width="40" height="40"/>
 </div>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/dxn6fRlTIShoeBr69N" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
-<br>
 
-# 🔥My Stats:
+# 📈 Projects
+Here are some of the exciting projects I've worked on:
+
+## 💻 Web Development Projects
+### News App 📱
+Technologies Used: React, Spring, Database
+Description: Developed a comprehensive news application that allows users to stay updated with the latest news. Implemented user authentication using a database to store login details and utilized Spring for backend communication, ensuring secure and efficient data handling.
+
+### GPA Calculator 🎓
+Technologies Used: React
+Description: Created a GPA calculator to help students calculate their GPA during college results. The application features a user-friendly interface and provides accurate calculations based on user input.
+
+### Automated Google Meet 🤖
+Technologies Used: Selenium
+Description: Developed an automation tool using Selenium to streamline the process of joining Google Meet sessions during online classes. This tool automates the login and joining process, making it easier for students to attend their classes.
+
+### Weather App ☁️
+Technologies Used: React
+Description: Built a weather application that provides real-time weather updates for any location. The app fetches data from a weather API and displays it in an intuitive and user-friendly interface.
+
+### Notepad 📝
+Technologies Used: JavaScript
+Description: Created a simple yet functional notepad application using JavaScript. This project showcases basic CRUD operations, allowing users to create, read, update, and delete notes.
+
+## 🐍 Python Projects
+
+### YouTube Downloader 📹
+Technologies Used: Python
+Description: Developed a YouTube downloader that allows users to download videos directly from YouTube. The application supports various video formats and resolutions, providing a convenient way to save videos locally.
+
+### OCR Project 🔍
+Technologies Used: Python
+Description: Created an Optical Character Recognition (OCR) project using Python to extract text from images. This project demonstrates the ability to process and analyze visual data, converting it into editable and searchable text.
+
+# 📊 My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohamedsharafath&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 
 # 🚀 Current Learning Goals
-I'm diving deep into the fascinating fields of:
+I'm currently expanding my knowledge in the fields of:
+Machine Learning 🤖: Understanding and implementing algorithms to make data-driven decisions.
+Deep Learning 🧠: Diving deep into neural networks and AI to solve complex problems.
 
-Machine Learning 🤖
-Deep Learning 🧠
+# 📧 Contact
+You can reach me at: sharafath0sms@gmail.com
 
 <!--
 **mohamedsharafath/mohamedsharafath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
