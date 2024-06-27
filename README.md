@@ -5,11 +5,11 @@
   <a href="https://auth.geeksforgeeks.org/user/sharafath0sms/practice"><img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Youtube Badge"/></a>
   <a href="https://leetcode.com/u/sharafath0sms/"><img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Twitter Badge"/></a>
 </div>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=mohamedsharafath&style=flat-square&color=blue" alt="" align="center"/></div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=mohamedsharafath&style=flat-square&color=blue" alt="" align="center" width="50" height="50"/></div>
 <br>
 
 # 🛠️ Technologies & Tools
-<div margin="20px" align="center">
+<div margin="20" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
