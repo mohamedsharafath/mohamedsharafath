@@ -5,7 +5,8 @@
   <a href="https://auth.geeksforgeeks.org/user/sharafath0sms/practice"><img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Youtube Badge"/></a>
   <a href="https://leetcode.com/u/sharafath0sms/"><img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Twitter Badge"/></a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=mohamedsharafath&style=flat-square&color=blue" alt="" align="center"/>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=mohamedsharafath&style=flat-square&color=blue" alt="" align="center"/></div>
+<br>
 
 # 🛠️ Technologies & Tools
 <div>
@@ -27,9 +28,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" **alt="Scikit-learn" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" **alt="Tensorflow" width="40" height="40"/>
 </div>
-<img src="https://giphy.com/embed/dxn6fRlTIShoeBr69N" width="480" height="480" />
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/dxn6fRlTIShoeBr69N" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<br>
+
 # 🔥My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
 
 # 🚀 Current Learning Goals
 I'm diving deep into the fascinating fields of:
