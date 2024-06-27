@@ -42,33 +42,33 @@ Here are some of the exciting projects I've worked on:
 
 ## 💻 Web Development Projects
 ### News App 📱
-Technologies Used: React, Spring, Database
+Technologies Used: React, Spring, Database<br>
 Description: Developed a comprehensive news application that allows users to stay updated with the latest news. Implemented user authentication using a database to store login details and utilized Spring for backend communication, ensuring secure and efficient data handling.
 
 ### GPA Calculator 🎓
-Technologies Used: React
+Technologies Used: React<br>
 Description: Created a GPA calculator to help students calculate their GPA during college results. The application features a user-friendly interface and provides accurate calculations based on user input.
 
 ### Automated Google Meet 🤖
-Technologies Used: Selenium
+Technologies Used: Selenium<br>
 Description: Developed an automation tool using Selenium to streamline the process of joining Google Meet sessions during online classes. This tool automates the login and joining process, making it easier for students to attend their classes.
 
 ### Weather App ☁️
-Technologies Used: React
+Technologies Used: React<br>
 Description: Built a weather application that provides real-time weather updates for any location. The app fetches data from a weather API and displays it in an intuitive and user-friendly interface.
 
 ### Notepad 📝
-Technologies Used: JavaScript
+Technologies Used: JavaScript<br>
 Description: Created a simple yet functional notepad application using JavaScript. This project showcases basic CRUD operations, allowing users to create, read, update, and delete notes.
 
 ## 🐍 Python Projects
 
 ### YouTube Downloader 📹
-Technologies Used: Python
+Technologies Used: Python<br>
 Description: Developed a YouTube downloader that allows users to download videos directly from YouTube. The application supports various video formats and resolutions, providing a convenient way to save videos locally.
 
 ### OCR Project 🔍
-Technologies Used: Python
+Technologies Used: Python<br>
 Description: Created an Optical Character Recognition (OCR) project using Python to extract text from images. This project demonstrates the ability to process and analyze visual data, converting it into editable and searchable text.
 
 # 📊 My Stats:
