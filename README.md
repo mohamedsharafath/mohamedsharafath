@@ -36,6 +36,9 @@
   
 </div>
   
+# 📊 My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohamedsharafath&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
 
 # 📈 Projects
 Here are some of the exciting projects I've worked on:
@@ -71,13 +74,12 @@ Description: Developed a YouTube downloader that allows users to download videos
 Technologies Used: Python<br>
 Description: Created an Optical Character Recognition (OCR) project using Python to extract text from images. This project demonstrates the ability to process and analyze visual data, converting it into editable and searchable text.
 
-# 📊 My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohamedsharafath&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
 
 # 🚀 Current Learning Goals
 I'm currently expanding my knowledge in the fields of:
+<br>
 Machine Learning 🤖: Understanding and implementing algorithms to make data-driven decisions.
+<br>
 Deep Learning 🧠: Diving deep into neural networks and AI to solve complex problems.
 
 # 📧 Contact
